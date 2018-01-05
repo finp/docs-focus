@@ -1,0 +1,1 @@
+As a developer I need to know what software (other than the current service/component) is supported. For example, Operating System, Node.js, Database.

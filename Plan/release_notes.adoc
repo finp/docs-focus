@@ -1,0 +1,5 @@
+AeroGear users need to read the Release Notes to be informed about:
+
+* Deprecations
+* New Features
+* Known Issues

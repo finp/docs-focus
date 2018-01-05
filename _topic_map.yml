@@ -1,0 +1,16 @@
+---
+Name: Documentation Focus for AeroGear
+Dir: Plan
+Topics:
+  - Name: Overview
+    File: overview
+  - Name: Supported Configurations
+    File: supported_configs
+  - Name: Release Notes
+    File: release_notes
+---
+Name: Installation
+Dir: install
+Topics:
+  - Name: Overview
+    File: overview

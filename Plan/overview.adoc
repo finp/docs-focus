@@ -1,0 +1,5 @@
+"Plan" here refers to the user's plan. Imagine a user want's to create a mobile todo app, what do they need to know:
+
+* Which AeroGear services/modules/components will I use?
+* How does my use of AeroGear affect my Plan?
+* As my project progresses, what do I need to do wrt AeroGear components?

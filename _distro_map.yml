@@ -1,0 +1,11 @@
+---
+docs-focus:
+  name: Docs Focus
+  author: finp
+  site: main
+  site_name: Home
+  site_url: http://shiftgear.org
+  branches:
+    master:
+      name: Latest
+      dir: docs-focus
