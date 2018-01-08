@@ -1,11 +1,21 @@
 Read this to understand the focus of documentation effort for AeroGear.
 
-NOTE
---
-When facing 
---
+[NOTE]
+====
+When facing a documentation task, consider the audience:
+
+* AeroGear Developers - if the documentation relates to AeroGear or OpenShift design, development, coding or process.
+* AeroGear Users - if the documentation relates to developing a mobile app using AeroGear repos.
+
+The information here refers to only AeroGear user documentation.
+====
 
 The following attempts to summarize the user perspective of using {component}:
 
-* Planning
-* 
+* xref:../plan/index.adoc#[Planning] - not your plan, the user's plan
+* xref:../install/index.adoc#[Installing] - don't assume it's easy for user
+* xref:../configure/index.adoc#[Configuring] - optional complexity, but might be necessary for user's plan
+* xref:../develop/index.adoc#[Developing] - what the user really wants to do
+* xref:../deploy/index.adoc#[Deploying] - can often be automated
+* xref:../upgrade/index.adoc#[Upgrading] - the only way keep up-to-date
+* xref:../decommission/index.adoc#[Decommissioning] - how can we support users before and after deprecation?
