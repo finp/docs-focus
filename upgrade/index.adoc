@@ -1,0 +1,7 @@
+Upgrade documentation can consist of:
+
+* Release Notes
+* Requirements
+* Tasks (as per xref:../install/overview.adoc#[installation documentation])
+
+

@@ -1,51 +1,58 @@
 ---
-Name: Documentation Focus for AeroGear
-Dir: Plan
+Name: About
+Dir: welcome
+Topics:
+  - Name: Welcome 
+    File: index
+
+---
+Name: Planning
+Dir: plan
 Topics:
   - Name: Overview
-    File: overview
+    File: index
   - Name: Supported Configurations
     File: supported_configs
   - Name: Release Notes
     File: release_notes
 ---
-Name: Installation
+Name: Installing
 Dir: install
 Topics:
   - Name: Overview
-    File: overview
+    File: index
 
 ---
-Name: Configuration
+Name: Configuring
 Dir: configure
 Topics:
   - Name: Overview
-    File: overview
+    File: index
 
 ---
-Name: Development
+Name: Developing
 Dir: develop
 Topics:
   - Name: Overview
-    File: overview
+    File: index
 
 ---
-Name: Deployment
+Name: Deploying
 Dir: deploy
 Topics:
   - Name: Overview
-    File: overview
+    File: index
 
 ---
 Name: Upgrading
 Dir: upgrade
 Topics:
   - Name: Overview
-    File: overview
+    File: index
 ---
 
-Name: Decommision
+Name: Decommisioning
 Dir: decommission
 Topics:
   - Name: Overview
-    File: overview
+    File: index
