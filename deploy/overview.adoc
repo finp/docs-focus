@@ -1,0 +1,5 @@
+Documentation about deployment can consist of:
+
+* deploying to OpenShift 
+* deploying to mobile device
+

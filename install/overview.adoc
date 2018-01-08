@@ -1,1 +1,11 @@
+Installation documentation can consist of:
 
+* Prerequisites
+* Pre-installation Tasks
+* Installation Tasks
+* Post-installation Tasks
+
+Other factors:
+
+* OpenShift flavor (Origin, OCP, Dedicated or Online)
+* Local development - is user developing code without OpenShift?

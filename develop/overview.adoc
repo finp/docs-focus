@@ -1,0 +1,6 @@
+Documentation about development can consist of:
+
+* mobile developer - concentrating on iOS and Android
+* server side developer - concentrating on server code
+
+NOTE: There is crossover between these audiences.
