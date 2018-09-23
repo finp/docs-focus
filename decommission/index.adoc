@@ -1,3 +1,0 @@
-Documentation about decommissioning can consist of:
-
-* When the software was deprecated

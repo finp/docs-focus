@@ -51,8 +51,8 @@ Topics:
     File: index
 ---
 
-Name: Decommisioning
-Dir: decommission
+Name: Migrating
+Dir: migration
 Topics:
   - Name: Overview
     File: index

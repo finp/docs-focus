@@ -1,0 +1,5 @@
+Documentation about migration be triggered by:
+
+* When software is deprecated
+* When a component changes
+
